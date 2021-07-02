@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on My blog</title>
+    <title>Projects on Seyoung</title>
     <link>https://seyoung-ahn.github.io/portfolio/post/</link>
-    <description>Recent content in Articles on My blog</description>
+    <description>Recent content in Projects on Seyoung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://seyoung-ahn.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://seyoung-ahn.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter VI: Esmeralda</title>
       <link>https://seyoung-ahn.github.io/portfolio/post/chapter-6/</link>
